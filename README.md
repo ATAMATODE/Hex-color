@@ -1,2 +1,2 @@
-# Hex-color
- hex coloring
+# Hex-coloring
+https://atamatode.github.io/Hex-coloring/ 
