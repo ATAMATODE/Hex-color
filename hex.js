@@ -20,6 +20,5 @@ btn.addEventListener("click", function () { // Higher order function
         document.body.style.backgroundColor = hexColor;
         // change the text of the color value to the color name
         color.textContent = hexColor;
-
     }
 })
