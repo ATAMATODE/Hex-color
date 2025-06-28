@@ -1,1 +1,1 @@
-https://atamatode.github.io/Hex-color/
+https://hex-color-flipper-by-amedeka.netlify.app/
